@@ -3,10 +3,6 @@
 Dashboard Purpose
 The primary purpose of this dashboard is to provide hospital management with a single interactive view of claim submissions and financial performance, enabling faster identification of high-value areas, insurance trends, doctor-level performance, and departmental activity.
 
-Report: Hospital Submission Report
-Period: November 2025
-Dashboard Type: Hospital Claims & Submission Analytics
-
 Key Objectives
 Monitor total submitted claim amounts.
 Analyze procedure, laboratory, and consultation costs.
